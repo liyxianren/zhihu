@@ -1,14 +1,9 @@
 # OpenClaw Zhihu Auto Publisher
 
-> 旧项目名：`zhihu`  
-> 建议仓库新名称：`openclaw-zhihu-auto-publisher`
-
-一个面向 OpenClaw 的知乎自动发布 Skills 项目：
+知乎自动发布 OpenClaw Skills 封装：
 - 自动选题（可选）
 - 自动生成知乎长文
 - 自动打开知乎写作页并发布
-
-目标是让开发者在几分钟内完成复线，而不是读一堆分散文档。
 
 ## 这个项目解决什么问题
 
